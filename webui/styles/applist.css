@@ -69,7 +69,7 @@
 }
 
 .card.selected {
-    background-color: var(--md-sys-color-surface-container-high);
+    background-color: var(--md-sys-color-tonal-surface);
 }
 
 .content {
